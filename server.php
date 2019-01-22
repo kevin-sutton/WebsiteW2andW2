@@ -10,7 +10,7 @@ $password = "";
 $errors = array(); 
 
 // connect to the database
-$db = mysqli_connect('157.230.147.208', 'master_qxkxgpnhym', 'D3xdRGRK', 'QQMGVFESSC');
+$db = mysqli_connect('157.230.147.208', 'qqmgvfessc', 'nU4p9sFSHy', 'qqmgvfessc');
 
 // REGISTER USER
 if (isset($_POST['reg_user'])) {
