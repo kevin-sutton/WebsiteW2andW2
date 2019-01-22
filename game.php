@@ -130,7 +130,119 @@
             <div class="my-auto">
                 <h2 class="mb-5">Create A Character</h2>
                 <ul class="fa-ul mb-0">
-                    
+                    <form action="game.php" method="post">
+                    <?php include('errors.php'); ?>
+					<p>General Traits</p>
+                    <div class="input-group">
+                        <label>Character Name</label>
+                        <input type="text" name="charName">
+                    </div>
+					<div class="input-group">
+                        <label>Race</label>
+                        <input type="text" name="charRace">
+                    </div>
+					<div class="input-group">
+                        <label>Class</label>
+                        <input type="text" name="charClass">
+                    </div>
+                    <div class="input-group">
+                        <label>Age</label>
+                        <input type="number" name="charAge">
+                    </div>
+                    <div class="input-group">
+                        <label>Gender</label>
+                        <input type="text" name="charGender">
+                    </div>
+                    <div class="input-group">
+                        <label>Height</label>
+                        <input type="text" name="charHeight">
+                    </div>
+					<div class="input-group">
+                        <label>Weight</label>
+                        <input type="text" name="charWeight">
+                    </div>
+					<div class="input-group">
+                        <label>Eye Color</label>
+                        <input type="text" name="charEye">
+                    </div>
+					<div class="input-group">
+                        <label>Hair Color</label>
+                        <input type="text" name="charHair">
+                    </div>
+					<div class="input-group">
+                        <label>Skin Tone</label>
+                        <input type="text" name="charSkin">
+                    </div>
+					<p>Attributes</p>
+					<div class="input-group">
+                        <label>Strength</label>
+                        <input type="number" name="charSTR">
+                    </div>
+					<div class="input-group">
+                        <label>Endurance</label>
+                        <input type="number" name="charEND">
+                    </div>
+					<div class="input-group">
+                        <label>Finesse</label>
+                        <input type="number" name="charFIN">
+                    </div>
+					<div class="input-group">
+                        <label>Speed</label>
+                        <input type="number" name="charSPE">
+                    </div>
+					<div class="input-group">
+                        <label>Concentration</label>
+                        <input type="number" name="charCON">
+                    </div>
+					<div class="input-group">
+                        <label>Charisma</label>
+                        <input type="number" name="charCHA">
+                    </div>
+					<div class="input-group">
+                        <label>Intelligence</label>
+                        <input type="number" name="charINT">
+                    </div>
+					<div class="input-group">
+                        <label>Magic</label>
+                        <input type="number" name="charMAG">
+                    </div>
+					<div class="input-group">
+                        <label>Faith</label>
+                        <input type="number" name="charFAI">
+                    </div>
+					<div class="input-group">
+                        <label>Luck</label>
+                        <input type="number" name="charLUC">
+                    </div>
+					<p>Extras</p>
+					<div class="input-group">
+                        <label>Sellect a Bonus Skill</label>
+                        <input type="text" name="charSkill">
+                    </div>
+					<div class="input-group">
+                        <label>Sellect a Feat</label>
+                        <input type="number" name="charFeat">
+                    </div>
+					<p>Character History</p>
+					<div class="input-group">
+                        <label>Organization</label>
+                        <input type="text" name="charOrg">
+                    </div>
+					<div class="input-group">
+                        <label>Alignment</label>
+                        <input type="number" name="charAlign">
+                    </div>
+					<div class="input-group">
+                        <label>Background</label>
+                        <input type="number" name="charBack">
+                    </div>
+                    <div class="input-group">
+                        <button type="submit" class="btn" name="create_char">Create</button>
+                    </div>
+                    <p>
+                        Already a member? <a href="login.php">Sign in</a>
+                    </p>
+                </form>
                 </ul>
             </div>
         </section>
