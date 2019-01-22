@@ -175,7 +175,7 @@
             <div class="resume-content mr-auto">
               <h3 class="mb-0">Newest Post</h3>
               <div class="subheading mb-3">New post every someday!</div>
-              <div><a href="BlogPostTemplate.html">post title here</a></div>
+              <div><a href="BlogPostTemplate.php">post title here</a></div>
             </div>
           </div>
 
@@ -259,7 +259,7 @@
                           <h3 class="mb-0">Play the game</h3>
                           <div class="subheading mb-3">Looking to play? Click the link bellow to log in.</div>
                           <div>
-                              <a href="appearance/game.html">
+                              <a href="game.php">
                                   <i class="fas fa-sign-in-alt fa-10x"></i>
                               </a>
                            </div>
