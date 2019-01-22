@@ -221,7 +221,7 @@
                     </div>
 					<div class="input-group">
                         <label>Sellect a Feat</label>
-                        <input type="number" name="charFeat">
+                        <input type="text" name="charFeat">
                     </div>
 					<p>Character History</p>
 					<div class="input-group">
@@ -230,11 +230,11 @@
                     </div>
 					<div class="input-group">
                         <label>Alignment</label>
-                        <input type="number" name="charAlign">
+                        <input type="text" name="charAlign">
                     </div>
 					<div class="input-group">
                         <label>Background</label>
-                        <input type="number" name="charBack">
+                        <input type="text" name="charBack">
                     </div>
                     <div class="input-group">
                         <button type="submit" class="btn" name="create_char">Create</button>
