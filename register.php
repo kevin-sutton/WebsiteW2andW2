@@ -60,7 +60,7 @@
                     Sign Up
                     <span class="text-primary"></span>
                 </h1>
-                <form method="post" action="register.php">
+                <form method="POST" action="register.php">
                     <?php include('errors.php'); ?>
                     <div class="input-group">
                         <label>Username</label>

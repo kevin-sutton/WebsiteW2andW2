@@ -4,6 +4,9 @@ session_start();
 // initializing variables
 $username = "";
 $email    = "";
+$password_1 = "";
+$password_2 = "";
+$password = "";
 $errors = array(); 
 
 // connect to the database
