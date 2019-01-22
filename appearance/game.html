@@ -58,6 +58,24 @@
                     <a class="nav-link js-scroll-trigger" href="#account">Account</a>
                 </li>
                 <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#mycharacters">My Characters</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#createcharacter">Create A Character</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#myentries">My Entries</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#createentry">Create An Entry</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#myrequests">My Requests</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#createrequest">Create A Request</a>
+                </li>
+                <li class="nav-item">
                     <a class="nav-link js-scroll-trigger" href="#about">About</a>
                 </li>
             </ul>
@@ -92,6 +110,72 @@
                 <?php  if (isset($_SESSION['username'])) : ?>
                 <p> <a href="game.php?logout='1'" style="color: blue;">logout</a> </p>
                 <?php endif ?>
+            </div>
+        </section>
+
+        <hr class="m-0">
+
+        <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="mycharacters">
+            <div class="my-auto">
+                <h2 class="mb-5">My Characters</h2>
+                <ul class="fa-ul mb-0">
+                    <p class="subheading mb-3">View your characters here</p>
+                </ul>
+            </div>
+        </section>
+
+        <hr class="m-0">
+
+        <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="createcharacter">
+            <div class="my-auto">
+                <h2 class="mb-5">Create A Character</h2>
+                <ul class="fa-ul mb-0">
+                    <p class="subheading mb-3">Create a new character here</p>
+                </ul>
+            </div>
+        </section>
+
+        <hr class="m-0">
+
+        <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="myentries">
+            <div class="my-auto">
+                <h2 class="mb-5">My Entries</h2>
+                <ul class="fa-ul mb-0">
+                    <p class="subheading mb-3">View your journal entries here</p>
+                </ul>
+            </div>
+        </section>
+
+        <hr class="m-0">
+
+        <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="createentry">
+            <div class="my-auto">
+                <h2 class="mb-5">Create An Entry</h2>
+                <ul class="fa-ul mb-0">
+                    <p class="subheading mb-3">Create a new journal entry here</p>
+                </ul>
+            </div>
+        </section>
+
+        <hr class="m-0">
+
+        <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="myrequests">
+            <div class="my-auto">
+                <h2 class="mb-5">My Requests</h2>
+                <ul class="fa-ul mb-0">
+                    <p class="subheading mb-3">View your requests of any kind here</p>
+                </ul>
+            </div>
+        </section>
+
+        <hr class="m-0">
+
+        <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="createrequest">
+            <div class="my-auto">
+                <h2 class="mb-5">Create A Request</h2>
+                <ul class="fa-ul mb-0">
+                    <p class="subheading mb-3">Create a new request of any kind here</p>
+                </ul>
             </div>
         </section>
 
