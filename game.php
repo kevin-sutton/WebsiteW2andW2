@@ -57,6 +57,24 @@
                 <li class="nav-item">
                     <a class="nav-link js-scroll-trigger" href="#account">Account</a>
                 </li>
+				<li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#mychar">My Characters</a>
+                </li>
+				<li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#newchar">Create A Character</a>
+                </li>
+				<li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#myentr">My Entries</a>
+                </li>
+				<li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#newentr">Create An Entry</a>
+                </li>
+				<li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#myreq">My Requests</a>
+                </li>
+				<li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#newreq">Create A Request</a>
+                </li>
                 <li class="nav-item">
                     <a class="nav-link js-scroll-trigger" href="#about">About</a>
                 </li>
@@ -96,6 +114,72 @@
         </section>
 
         <hr class="m-0">
+
+        <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="mychar">
+            <div class="my-auto">
+                <h2 class="mb-5">My Characters</h2>
+                <ul class="fa-ul mb-0">
+                    
+                </ul>
+            </div>
+        </section>
+
+		<hr class="m-0">
+
+        <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="newchar">
+            <div class="my-auto">
+                <h2 class="mb-5">Create A Character</h2>
+                <ul class="fa-ul mb-0">
+                    
+                </ul>
+            </div>
+        </section>
+
+		<hr class="m-0">
+
+        <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="myentr">
+            <div class="my-auto">
+                <h2 class="mb-5">My Entries</h2>
+                <ul class="fa-ul mb-0">
+                    
+                </ul>
+            </div>
+        </section>
+
+		<hr class="m-0">
+
+        <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="newentr">
+            <div class="my-auto">
+                <h2 class="mb-5">Create An Entry</h2>
+                <ul class="fa-ul mb-0">
+                    
+                </ul>
+            </div>
+        </section>
+
+		<hr class="m-0">
+
+        <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="myreq">
+            <div class="my-auto">
+                <h2 class="mb-5">My Requests</h2>
+                <ul class="fa-ul mb-0">
+                    
+                </ul>
+            </div>
+        </section>
+
+		<hr class="m-0">
+
+        <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="newreq">
+            <div class="my-auto">
+                <h2 class="mb-5">Create A Request</h2>
+                <ul class="fa-ul mb-0">
+                    
+                </ul>
+            </div>
+        </section>
+		
+		<hr class="m-0">
 
         <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="about">
             <div class="my-auto">
