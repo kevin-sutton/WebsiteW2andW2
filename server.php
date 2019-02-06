@@ -153,7 +153,7 @@ if (isset($_POST['create_char']))
   		mysqli_query($db, $query);
 
 		$_SESSION['success'] = "Character created successfully";
-  	header('location: game.php');
+  		header('location: game.php');
 	}
 }
 

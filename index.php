@@ -200,17 +200,290 @@
 
               <div class="subheading mb-3">Phase 1</div>
               <ul class="fa-ul mb-0">
+			  <p>Articles to be written to complete the setting book in order by week:</p>
                   <li>
                       <i class="fa-li fa fa-square"></i>
-                      First thing to do
+                      The Alchemist
                   </li>
                   <li>
                       <i class="fa-li fa fa-square"></i>
-                      Second thing to do
+                      The Cultist
                   </li>
                   <li>
                       <i class="fa-li fa fa-square"></i>
-                      Third etc...
+                      In Depth: Attributes
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Equipment Set 1
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      In Depth: Skills
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Elon
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      The Inquisitor
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      In Depth: Combat
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      In Depth: Magic
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Feat Set 1
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Organization Set 1
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Leveling Up
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Multiclassing
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      In Depth: Requests
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      In Depth: Histories
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Dark Elves
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Equipment Set 2
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      The Scholar
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Beliefs
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Feat Set 2
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Pureblood Dwarves
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Organization Set 2
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      The Mummer
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Orcs
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Dragonkin
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      The Wretch
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Equipment Set 3
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      The Empire
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Elite Humans
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Feat Set 3
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      The Noble
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Lowland Humans
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Organization Set 3
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      The Murderer
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Woodland Dwarves
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      The Sailor
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Equipment Set 4
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Points of Interest: New Empire
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      The Spy
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Feat Set 4
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Rock Dwarves
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Points of Interest: Roddsland
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      The Woodsman
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Organization Set 4
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Points of Interest: Isle Bank
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Points of Interest: West Bank
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Points of Interest: World's End
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Points of Interest: Mannor's Crest
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Goliaths
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Feat Set 5
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Nephalem
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      The Arcanist
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Heavenfolk
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Hellflok
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Organization Set 5
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Outerfolk
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Equipment Set 5
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      The Hermit
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      The Faithful
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Other Planes of Existence
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Frost Dwarves
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      The Explorer
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      The Mercenary
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Outside the Empire
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Gutter Dwarves
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      The Knight
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Nightborne
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Doppelganger
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      The Felon
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      Creatures of the Colonies
+                  </li>
+				  <li>
+                      <i class="fa-li fa fa-square"></i>
+                      An Introduction
                   </li>
               </ul>
 
